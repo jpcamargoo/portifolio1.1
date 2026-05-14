@@ -7,7 +7,7 @@ import ClientProviders from '@/components/ClientProviders';
 import RouteTransition from '@/components/RouteTransition';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://meu-portfolio.vercel.app'),
+  metadataBase: new URL('https://portifolio1-1-ten.vercel.app'),
   title: 'João Paulo Pereira — Desenvolvedor Full Stack Júnior',
   description: 'Desenvolvedor Full Stack Júnior | Node.js, TypeScript, React, SQL | Documentação-first · Automação com IA · Boas Práticas',
   keywords: ['Desenvolvedor Full Stack', 'Node.js', 'TypeScript', 'React', 'Next.js', 'SQL', 'PostgreSQL', 'MySQL', 'Express', 'Fastify', 'APIs REST', 'Automação', 'IA'],
@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'pt_BR',
-    url: 'https://meu-portfolio.vercel.app',
+    url: 'https://portifolio1-1-ten.vercel.app',
     title: 'João Paulo Pereira — Desenvolvedor Full Stack Júnior',
     description: 'Desenvolvedor Full Stack Júnior especializado em Node.js, TypeScript, React e SQL. Construo aplicações completas com clareza e documentação-first.',
     siteName: 'João Paulo Pereira Portfolio',
